@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @saiddis
 - 👀 I’m interested in developing websites, games and AIs
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Go
 - ⚡ Fun fact: I love football, cooking and travelling
